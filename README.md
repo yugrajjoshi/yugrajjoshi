@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I'm Yugraj Joshi
 
-<!--
-**yugrajjoshi/yugrajjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm just starting out in the world of programming and working on improving my skills in **C++**, **Data Structures & Algorithms (DSA)**, as well as **web development** using **HTML**, **CSS**, and **JavaScript**.
 
-Here are some ideas to get you started:
+## 🛠️ What I'm Learning
+- Basics of **C++**
+- Problem solving using **DSA**
+- Web development with:
+  - **HTML** – building the structure of web pages
+  - **CSS** – styling and layout
+  - **JavaScript** – adding interactivity
+- How to use **Git** and **GitHub** for version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 My Current Goals
+- Get better at solving coding problems
+- Build simple web pages and small projects
+- Understand core programming concepts clearly
+
+## 🔗 Connect with Me
+Feel free to explore my repos and see what I'm building. I'm learning every day and enjoying the journey.
+
+---
+
+> “The expert in anything was once a beginner.”
