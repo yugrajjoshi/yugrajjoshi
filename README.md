@@ -1,6 +1,3 @@
-<img src="git_banner_imresizer (1).png" alt="GitHub Banner" />
-
-
 # Hi there 👋 I'm Yugraj Joshi
 
 Welcome to my GitHub! I'm just starting out in the world of programming and working on improving my skills in **C++**, **Data Structures & Algorithms (DSA)**, as well as **web development** using **HTML**, **CSS**, and **JavaScript**.
