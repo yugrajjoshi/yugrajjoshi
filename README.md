@@ -14,17 +14,32 @@
 - 🎓 **Engineering Student**
 - 💻 **Aspiring Software Engineer**
 - ✏️ **Sketching as a creative hobby**
- 
 
-I’m an engineering student exploring the world of software development.
+I am an engineering student developing a strong foundation in software engineering and computational problem solving.
 
-Currently focused on strengthening **Data Structures & Algorithms** 
-and building **web projects using HTML, CSS, and JavaScript**.
+My current focus is on strengthening **Data Structures and Algorithms**, while building practical  
+**web-based projects using HTML, CSS, and JavaScript** to reinforce core development principles.
 
-I enjoy learning how things work under the hood, solving logical problems,  
-and improving a little every day through consistent practice.
+I place a strong emphasis on understanding how systems function beneath the surface and approach learning through disciplined practice, logical reasoning, and continuous incremental improvement.
 
 </td>
 </tr>
 </table>
 
+---
+
+## 🛠️ Technical Proficiencies
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js" />  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=html,css" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" />
+___________________________________________________________________________________________________________________________
+
+### 🎮 Currently Exploring
+**Phaser.js**
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+### 📚 Core
+- Data Structures & Algorithms, Problem Solving, Web Development, Data Visualization
