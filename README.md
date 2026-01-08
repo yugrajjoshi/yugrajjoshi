@@ -1,4 +1,4 @@
-<img src="git_banner_imresizer(1).png" alt="GitHub Banner" />
+<img src="git_banner_imresizer (1).png" alt="GitHub Banner" />
 
 
 # Hi there 👋 I'm Yugraj Joshi
