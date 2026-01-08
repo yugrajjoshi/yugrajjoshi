@@ -1,24 +1,29 @@
-# Hi there 👋 I'm Yugraj Joshi
+<table>
+<tr>
+<td width="35%">
 
-Welcome to my GitHub! I'm just starting out in the world of programming and working on improving my skills in **C++**, **Data Structures & Algorithms (DSA)**, as well as **web development** using **HTML**, **CSS**, and **JavaScript**.
+<img src="wrap.png" alt="Profile Illustration" width="100%" />
 
-## 🛠️ What I'm Learning
-- Basics of **C++**
-- Problem solving using **DSA**
-- Web development with:
-  - **HTML** – building the structure of web pages
-  - **CSS** – styling and layout
-  - **JavaScript** – adding interactivity
-- How to use **Git** and **GitHub** for version control
+</td>
+<td width="65%">
 
-## 📘 My Current Goals
-- Get better at solving coding problems
-- Build simple web pages and small projects
-- Understand core programming concepts clearly
+> *“Every great build starts as a rough sketch.”*
 
-## 🔗 Connect with Me
-Feel free to explore my repos and see what I'm building. I'm learning every day and enjoying the journey.
+### Hi, I'm **Yugraj Joshi**
 
----
+- 🎓 Engineering Student  
+- 💻 Aspiring Software Engineer  
+- ✏️ Sketching as a creative hobby  
 
-> “The expert in anything was once a beginner.”
+I’m an engineering student exploring the world of software development.
+
+Currently focused on strengthening **Data Structures & Algorithms** and building  
+**web projects using HTML, CSS, and JavaScript**.
+
+I enjoy learning how things work under the hood, solving logical problems,  
+and improving a little every day through consistent practice.
+
+</td>
+</tr>
+</table>
+
