@@ -1,3 +1,5 @@
+<img src="ban_design.png" alt="banner sunrise" width="100%" height= "200px" />
+
 <table>
 <tr>
 <td width="35%">
@@ -9,7 +11,7 @@
 
 > ### *“Every great build starts as a rough sketch.”*
 
-### Hi, I'm **Yugraj Joshi**
+###  I'm **Yugraj Joshi**
 
 - 🎓 **Engineering Student**
 - 💻 **Aspiring Software Engineer**
