@@ -46,17 +46,3 @@ ________________________________________________________________________________
 ### 📚 Core
 - Data Structures & Algorithms, Problem Solving, Web Development, Data Visualization
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugrajjoshi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yugrajjoshi&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yugrajjoshi&theme=tokyo-night&hide_border=true"/>
-</p>
-
