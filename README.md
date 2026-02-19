@@ -37,16 +37,12 @@ I place a strong emphasis on understanding how systems function beneath the surf
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 phaser.js
-___________________________________________________________________________________________________________________________
-
-### 🎮 Currently Exploring
-beckendstuffs
-
+________________________________________________________________________________________________________________________
 
 ### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ### 📚 Core
 - Data Structures & Algorithms, Problem Solving, Web Development, Data Visualization
-
+- 
 
