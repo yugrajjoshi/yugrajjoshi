@@ -35,7 +35,7 @@ I place a strong emphasis on understanding how systems function beneath the surf
 <img src="https://skillicons.dev/icons?i=cpp,python,js" />  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://skillicons.dev/icons?i=html,css" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://skillicons.dev/icons?i=mysql" />
-
+node.js
 phaser.js
 ________________________________________________________________________________________________________________________
 
