@@ -1,4 +1,4 @@
-<img src="ban_design.png" alt="banner sunrise" width="100%" height= "175px" />
+<img src="ban_design.png" alt="banner sunrise" width="100%" height= "150px" />
 
 <table>
 <tr>
@@ -32,11 +32,7 @@ I place a strong emphasis on understanding how systems function beneath the surf
 
 ## 🛠️ Technical Proficiencies
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://skillicons.dev/icons?i=html,css" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" />
-node.js
-phaser.js
+<img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,django,html,css,mysql,postgres" />
 ________________________________________________________________________________________________________________________
 
 ### 🧰 Tools
@@ -44,5 +40,4 @@ ________________________________________________________________________________
 
 ### 📚 Core
 - Data Structures & Algorithms, Problem Solving, Web Development, Data Visualization
-- 
 
