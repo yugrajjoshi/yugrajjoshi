@@ -1,13 +1,9 @@
-<img src="ban_design.png" alt="banner sunrise" width="100%" height= "150px" />
+<img src="ban_design.png" alt="banner sunrise" width="100%" height= "200px" />
 
 <table>
 <tr>
-<td width="35%">
 
-<img src="wrap.png" alt="Profile Illustration" width="100%" />
-
-</td>
-<td width="65%">
+<td width="full">
 
 > ### *“Every great build starts as a rough sketch.”*
 
@@ -32,7 +28,7 @@ I place a strong emphasis on understanding how systems function beneath the surf
 
 ## 🛠️ Technical Proficiencies
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,django,html,css,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=cpp,python,react,typescript,js,nodejs,django,html,tailwind,css,mysql,sqlite" />
 ________________________________________________________________________________________________________________________
 
 ### 🧰 Tools
