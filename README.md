@@ -38,9 +38,3 @@ I place a strong emphasis on understanding how systems function beneath the surf
 
 ---
 </div>
-## Core
-
-- Data Structures and Algorithms  
-- Problem Solving  
-- Web Development  
-- Data Visualization
