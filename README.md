@@ -8,9 +8,7 @@
 
 ## I'm Yugraj Joshi
 
-**Engineering Student**  
-**Aspiring Software Engineer**  
-**Sketching as a creative hobby**
+**Engineering Student**   |   **Aspiring Software Engineer**   |     **Sketching as a creative hobby**
 
 </div>
 
