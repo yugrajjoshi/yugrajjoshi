@@ -38,3 +38,7 @@ I place a strong emphasis on understanding how systems function beneath the surf
 
 ---
 </div>
+
+<a href="https://github-streak-stats-gray.vercel.app/user/yugrajjoshi">
+  <img src="https://github-streak-stats-gray.vercel.app/api/github/yugrajjoshi/svg" alt="GitHub Streak Stats" width="1000" height="320" />
+</a>
