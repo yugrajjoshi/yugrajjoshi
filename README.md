@@ -4,7 +4,7 @@
 
 <br/>
 
-### “Every great build starts as a rough sketch.”
+### *“Every great build starts as a rough sketch.”*
 
 ## I'm Yugraj Joshi
 
