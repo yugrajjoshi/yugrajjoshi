@@ -14,12 +14,12 @@
 
 ---
 
-I am an engineering student developing a strong foundation in software engineering and computational problem solving.
+*I am an engineering student developing a strong foundation in software engineering and computational problem solving.*
 
-My current focus is on strengthening **Data Structures and Algorithms**, while building practical  
-**web-based projects using React, Tailwind CSS, Django and JavaScript** to reinforce core development principles.
+*My current focus is on strengthening **Data Structures and Algorithms**, while building practical*  
+***web-based projects using React, Tailwind CSS, Django and JavaScript** to reinforce core development principles.*
 
-I place a strong emphasis on understanding how systems function beneath the surface and approach learning through disciplined practice, logical reasoning, and continuous incremental improvement.
+*I place a strong emphasis on understanding how systems function beneath the surface and approach learning through disciplined practice, logical reasoning, and continuous incremental improvement.*
 
 ---
 <div align="center" >
@@ -32,7 +32,7 @@ I place a strong emphasis on understanding how systems function beneath the surf
 
 ## Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 
 ---
 </div>
