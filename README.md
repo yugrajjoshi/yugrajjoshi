@@ -26,7 +26,7 @@
   
 ## Technical Proficiencies
 
-<img src="https://skillicons.dev/icons?i=cpp,python,react,typescript,js,nodejs,django,html,tailwind,css,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=cpp,python,typescript,js,react,nodejs,django,tailwind,html,css,mysql,sqlite" />
 
 ---
 
