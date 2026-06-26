@@ -40,18 +40,18 @@
 
 <p>
   <a href="https://github.com/yugrajjoshi">
-    <img src="https://img.shields.io/badge/GitHub-yugrajjoshi-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/yugrajjoshi/">
-    <img src="https://img.shields.io/badge/LinkedIn-yugrajjoshi-0077B5?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://leetcode.com/u/yugrajjoshi/">
-    <img src="https://img.shields.io/badge/LeetCode-yugrajjoshi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
   <a href="https://x.com/kush_212">
-    <img src="https://img.shields.io/badge/X-@kush__212-000000?style=for-the-badge&logo=x">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x">
   </a>
   <a href="https://instagram.com/yugraj_joshi">
-    <img src="https://img.shields.io/badge/Instagram-yugraj__joshi-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
