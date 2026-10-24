@@ -45,9 +45,6 @@
   <a href="https://leetcode.com/u/yugrajjoshi/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
-  <a href="https://x.com/kush_212">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x">
-  </a>
   <a href="https://instagram.com/yugraj_joshi">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
